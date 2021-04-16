@@ -1,0 +1,7 @@
+<theme xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:magento:framework:Config/etc/theme.xsd">
+   <title>tribaltheme</title> <!-- your theme's name -->
+   <parent>Magento/luma</parent> <!-- parent theme of the new theme in case the new theme inherits from an existing theme -->
+   <media>
+      <preview_image>media/preview.jpg</preview_image> <!-- path to preview image of your new theme in backend -->
+   </media>
+</theme>

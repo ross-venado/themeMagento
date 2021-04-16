@@ -1,0 +1,8 @@
+<page xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:magento:framework:View/Layout/etc/page_configuration.xsd">
+  <head>
+   
+    <!-- Add external resources -->
+
+    <link rel="stylesheet" type="text/css" src="http://fonts.googleapis.com/css?family=Roboto" src_type="url" />
+  </head>
+</page>
